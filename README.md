@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivam01anand
-- 👀 I’m interested in uncovering truths, providing joy
-- 🌱 I’m currently learning inner workings of Python 
-- 💞️ I’m looking to collaborate on Analytics
+- 👀 I’m interested in uncovering truths, providing joy.. coding is one tool i'm loving :)
+- 🌱 I’m currently learning the inner workings of Python & all things Data
+- 💞️ I’m looking to collaborate on Analytics/Startup/Product. Let's build.
 - 📫 How to reach me shivam01anand@gmail.com
 
 <!---
