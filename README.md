@@ -1,7 +1,7 @@
-- 👋 Pleased to find you, I’m @shivam01anand
-- 👀 I’m interested in uncovering truths & providing joy. coding is one avenue I currently enjoy :)
+- 👋 Pleased to find you
+- 👀 I’m fascinated by truths & evoking joy. coding is a method I enjoy :)
 - 🌱 I’m a data engineer by profession. Would love to catch up on all things data
-- 💞️ Open to collaborate on Analytics/Startup/Product. Let's build.
+- 💞️ Open to collaborate on DE/Analytics problem statements you're tackling! Let's build.
 - 📫 How to reach me shivam01anand@gmail.com
 
 <!---
